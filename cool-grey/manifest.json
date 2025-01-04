@@ -1,0 +1,94 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Chromium Cool Grey",
+  "theme": {
+    "images": {
+      "theme_tab_background": "theme_tab_background.png",
+      "theme_ntp_background": "theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        35,
+        38,
+        45
+      ],
+      "frame_inactive": [
+        35,
+        38,
+        45
+      ],
+      "ntp_background": [
+        35,
+        38,
+        45
+      ],
+      "tab_text": [
+        245,
+        245,
+        250
+      ],
+      "tab_background_text": [
+        235,
+        235,
+        240
+      ],
+      "bookmark_text": [
+        245,
+        245,
+        250
+      ],
+      "ntp_text": [
+        0,
+        0,
+        0
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        150,
+        150,
+        150
+      ],
+      "toolbar": [
+        56,
+        59,
+        67
+      ],
+      "toolbar_text": [
+        245,
+        245,
+        250
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "omnibox_text": [
+        245,
+        245,
+        250
+      ],
+      "toolbar_button_icon": [
+        245,
+        245,
+        250
+      ],
+      "omnibox_background": [
+        35,
+        38,
+        45
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
